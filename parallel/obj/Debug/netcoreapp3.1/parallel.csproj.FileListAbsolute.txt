@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.deps.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.runtimeconfig.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\bin\Debug\netcoreapp3.1\parallel.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\parallel\parallel\obj\Debug\netcoreapp3.1\parallel.genruntimeconfig.cache
